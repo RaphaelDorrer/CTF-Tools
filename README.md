@@ -6,3 +6,6 @@
 
 List all shares on SMB Share:
 > smbclient -L {ip-address}
+
+Access a speific share:
+> smbclient //{host}/{share}
