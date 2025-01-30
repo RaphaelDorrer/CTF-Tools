@@ -5,4 +5,4 @@
 ## SMB File Shares
 
 List all shares on SMB Share:
-> smbclient -L <ip-address>
+> smbclient -L {ip-address}
