@@ -14,3 +14,6 @@ Access a speific share:
 
 Get some general information:
 > ldapsearch -x -h <ip> -b "" -s base "(objectclass=*)"
+
+Perform Username enumeration:
+> kerbrute userenum -d <ip-address> --dc <domain-controller> <wordlist>
