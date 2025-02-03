@@ -9,3 +9,8 @@ List all shares on SMB Share:
 
 Access a speific share:
 > smbclient //{host}/{share}
+
+## LDAP
+
+Get some general information:
+> ldapsearch -x -h <ip> -b "" -s base "(objectclass=*)"
