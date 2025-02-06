@@ -17,3 +17,6 @@ Get some general information:
 
 Perform Username enumeration:
 > kerbrute userenum -d <ip-address> --dc <domain-controller> <wordlist>
+
+Does most of the heavy lifting:
+> python3 enum4linux-ng.py -As 10.10.11.35 -oY out > ../out.txt
