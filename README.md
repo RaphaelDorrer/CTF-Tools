@@ -28,5 +28,7 @@ Access RPC anonymously:
 
 after connecting try:
 > serverinfo
+> 
 > lsaenumsid
+> 
 > netshareenumall
