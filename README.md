@@ -35,3 +35,8 @@ after connecting try:
 > lsaenumsid
 > 
 > netshareenumall
+
+## Web
+
+Get different sites:
+> feroxbuster -u http://<IP_OF_TARGET> -w <PATH_TO_DIRECTORY_LIST>
