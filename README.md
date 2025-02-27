@@ -22,7 +22,7 @@ Does most of the heavy lifting:
 > python3 enum4linux-ng.py -As 10.10.11.35 -oY out > ../out.txt
 
 Bruteforce RID's using Guest Authentication
-> netexec smb <domain> -u zaa -p "" --rid-brute
+> netexec smb <DOMAIN/TARGET_IP> -u zaa -p "" --rid-brute
 
 ### RPC - Remote Procedure Call
 
