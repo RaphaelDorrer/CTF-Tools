@@ -1,7 +1,5 @@
 # Tools
 
-# Cheatsheets
-
 ## SMB File Shares
 
 List all shares on SMB Share:
@@ -40,3 +38,11 @@ after connecting try:
 
 Get different sites:
 > feroxbuster -u http://<IP_OF_TARGET> -w <PATH_TO_DIRECTORY_LIST>
+
+# Links
+Some very usefull sites I found:
+
+Very usefull for Linux Security and PrivEsc:
+> https://book.hacktricks.wiki/
+and
+> https://gtfobins.github.io/#
