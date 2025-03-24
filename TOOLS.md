@@ -1,5 +1,11 @@
 # Tools
 
+## Linux PrevEsc
+Use linPEASS to get information:
+> wget https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh
+
+Use pspy when there are weird processes to monitor them.
+
 ## SMB File Shares
 
 List all shares on SMB Share:
