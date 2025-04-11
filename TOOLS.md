@@ -47,6 +47,8 @@ Get different sites:
 
 Directory Search/Traversal:
 > python3 dirsearch.py -e php,html,js -u http://<TARGET_IP> -w <WORDLIST>
+or like this:
+> python3 dirsearch -u http://<TARGET_IP> -t 50 -i 200
 
 # Links
 Some very usefull sites I found:
