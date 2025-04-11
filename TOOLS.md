@@ -45,6 +45,9 @@ after connecting try:
 Get different sites:
 > feroxbuster -u http://<IP_OF_TARGET> -w <PATH_TO_DIRECTORY_LIST>
 
+Directory Search/Traversal:
+> python3 dirsearch.py -e php,html,js -u http://<TARGET_IP> -w <WORDLIST>
+
 # Links
 Some very usefull sites I found:
 
